@@ -17,10 +17,10 @@ Página Web feita para treinar meus conhecimentos com HTML e CSS.
 <br>
 
 <p align="center">
-  <img alt="Tela principal da página modo escuro para Desktop" src=".github/bk (1).png" width="100%">
+  <img alt="Tela principal da página" src=".github/bk (1).png" width="100%">
 </p>
 <p align="center">
-  <img alt="Tela principal da página modo escuro para Desktop" src=".github/bk (2).png" width="100%">
+  <img alt="Tela principal da página" src=".github/bk (2).png" width="100%">
 </p>
 
 ##  Tecnologias
