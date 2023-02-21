@@ -15,9 +15,7 @@ Página Web feita para treinar meus conhecimentos com HTML e CSS.
 </p>
 
 <br>
-<p align="center">
-  <img alt="Tela principal da página para Desktop" src=".github/preview (1).png" width="100%">
-</p>
+
 <p align="center">
   <img alt="Tela principal da página modo escuro para Desktop" src=".github/bk (1).png" width="100%">
 </p>
@@ -41,8 +39,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Projeto de Página Web feita para treinar meus conhecimentos com HTML e CSS. Visando estudo das tecnologias apresentadas.
 
 
+- [Visite o projeto online](https://matheusgrz141.github.io/Projeto-Portfolio)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
-
 
